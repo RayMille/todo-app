@@ -1,0 +1,19 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Directory for build artifacts
+dist/
+out/
+public/
+
+# Vite & Vue-related files
+.vite/
+.vue/
+*.
